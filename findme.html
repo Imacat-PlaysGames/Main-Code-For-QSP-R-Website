@@ -22,9 +22,9 @@
 					<ul>
  
                     		
- <li><a href="index.html">Home</a></li>
+<li><a href="index.html">Home</a></li>
   <li><a href="team.html">Team</a></li>
-  <li><a href="part6.html">S-Radio</a></li>
+  <li><a href="secondaryradio.html">S-Radio</a></li>
   <li><a href="helpers.html">Helpers</a></li>
     <li><a href="about.html">About</a></li>
 
@@ -65,7 +65,7 @@ function checkCode() {
 `;
 
   if (normalize(userInput) === normalize(correctCode)) {
-    window.location.href = "/access-granted"; // next page
+    window.location.href = "access-granted.html"; // next page
   } else {
     alert("Incorrect code. Try again.");
     document.getElementById("codeInput").value = "";

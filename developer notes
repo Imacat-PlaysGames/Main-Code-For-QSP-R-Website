@@ -1,0 +1,25 @@
+alrighty
+hi
+im may the developer for the website
+vercel is what we use, but we have a github vercel grabs from
+
+
+4/19/2026 notes - Verison 1.5
+I have added 404.html that Vercel will automatically show up if say.. someone maybe a little stupid types up something that doesnt exist... I dont know.. maybe like.. .com/findme.html. Don't know though.
+Added a little funny page called meow.html.
+Added page indicators to MOST pages, not all. 
+I am a extremely new web developer, I try my best.
+We've edited team.html to have a little.. new thing? Idk tho
+Development started around 1-2 AM EST and ending 5:02 AM EST
+Uhh idk what next just that Im really cool and youre not :salute: 
+
+Also im going insane
+
+4/19/2026 - Verison 1.5.1
+start patch 6:42 AM EST
+i have been alerted that the redirect to access-granted does not redirect to access-granted.html, therefore it is showing a 404 error code. also going to brainstorm a prize.a
+its works. edited "window.location.href = "/access-granted"; // next page" this line of code to go to access-granted.html, which is the correct file name.
+BEGIN BRAINSTORMING
+cat image turned down, did add a go to .com/meow.html.
+edited some secret pages to link to other secret page.. and well nothing else to edit and fix..
+end patch 6:51 AM EST
